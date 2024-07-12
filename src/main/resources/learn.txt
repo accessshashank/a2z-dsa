@@ -1,0 +1,4 @@
+If number of iterations is based on division then time complexity is always logarithmic
+In extraction of digits we keep on dividing the number  by 10, hence time complexity is Log 10(number)
+
+if we want to iterate till square_root(n) then in for loop just do i*i<=n
