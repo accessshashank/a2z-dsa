@@ -1,3 +1,4 @@
+PAT Token - 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
 If number of iterations is based on division then time complexity is always logarithmic
 In extraction of digits we keep on dividing the number  by 10, hence time complexity is Log 10(number)
 
